@@ -51,7 +51,11 @@ Create rectangles Given a rectangle with dimensions N'M and an Integer K. You di
 4
  
 ​
- 
+ <img width="1006" alt="image" src="https://github.com/Anonamous007/help/assets/154924798/bb93b74f-76df-413c-9953-a1e14f8599b3">
+
+ <img width="1006" alt="image" src="https://github.com/Anonamous007/help/assets/154924798/62a1c30c-6403-4ef2-85aa-46a3d9bded0b">
+
+
 
 
 # Dm me in telegram @hacker_887
