@@ -49,7 +49,7 @@ Create rectangles Given a rectangle with dimensions N'M and an Integer K. You di
 1≤N,M≤300
 1≤K≤10 
 4
- 
+ All test cases passed
 ​
  <img width="1006" alt="image" src="https://github.com/Anonamous007/help/assets/154924798/bb93b74f-76df-413c-9953-a1e14f8599b3">
 
