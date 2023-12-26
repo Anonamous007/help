@@ -1,5 +1,12 @@
 # help
 
+Good character 
+
+ 
+
+Find the character that appears most often across all possible substrings of a given string. If there are several characters with the same highest frequency. print the one that is smallest in lexicographical order.Function description Complete the solve() function. The function takes 2 parameters and returns a character denoting the answer to the question:• N. Represents the length of the string• S. Represents the stringInput format for custom testingNote: Use this input format if you are testing against custom input or writing code in a language where we don't provide bollerplate code.• The first line contains T. which represents the number of test cases.• For each test case:• The first line contains an integer N.  
+
+
 Question: Good character 
 
 Find the character that appears most often across all possible substrings of a given string. 
