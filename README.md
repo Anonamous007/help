@@ -1,9 +1,11 @@
-# help
+# help contact me on telegram hacker_887
+
 
 
 The process of initiating an action on a server is done through HTTP requests which are messages sent by the client. The two most commonly used HTTP requests are GET and POST. This task involves validating requests and parsing URL parameters as a comma- separated string. Authentication tokens for both GET and POST requests are sent as a URL parameter named "token". For validation of authentication, the tokens must be in a set of valid authentication tokens. In the case of a POST request, a CSRF (cross-site request forgery) token must also be provided. A POST request is considered valid if its authentication token is valid and its CSRF token is an alphanumeric value consisting only of lowercase letters and/or numbers with a minimum length of 8. Once a request is validated, the URL parameters must be parsed as a comma-separated string.URL parameters are identified by the portion of the URL that comes after a question mark (?). They consist of a key and a value, separated by an equal sign (=). Multiple parameters are separated by an ampersand (&).Implementation a request parser prototype. Given an array of strings, valid_auth_tokens, representing the valid authentication tokens, and a 2D array of strings, requests, representing the request types and URLs, for each request, return the request status ("VALID" or "INVALID"). If VALID, include a comma-separated string of parameters, i.e. "VALID,<param1_key>, <param1_value>,<param2_key>, <param2_value>".Examplevalid_auth_tokens = ["ah37j2ha483u", "safh34ywb0p5", "ba34wyi8t902"] requests = [["GET", "https://example.com/?token=347sd6yk8iu2&name=alex"], ["GET", *https://example.com/?token=safh34ywb0p5&name=sam"], ["POST", "https://example.com/?token=safh34ywb0p5&name=alex"], ["POST", "https://example.com/?token=safh34ywb0p5&csrf=ak2sh32dy&name=chris"]]. 
 
  
+<img width="484" alt="image" src="https://github.com/Anonamous007/help/assets/154924798/35bdeab0-71ee-4330-9f74-2abd5f5d0cd9">
 
 
 
